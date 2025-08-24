@@ -358,8 +358,6 @@
   <h3>🎉 Thanks for visiting my profile!</h3>
   <p>Feel free to reach out if you'd like to collaborate on exciting projects!</p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=400&height=50&lines=Let's+create+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
 
 ---
 
@@ -369,10 +367,6 @@
 
 ---
 
-<div align="center">
-  <h3>📊 Weekly Development Breakdown</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhall-afdhal&theme=radical" alt="Wakatime Stats" />
-</div>
 
 ---
 
