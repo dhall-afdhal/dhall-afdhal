@@ -359,14 +359,6 @@
   <p>Feel free to reach out if you'd like to collaborate on exciting projects!</p>
   
 
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhall-afdhal&theme=radical" alt="GitHub Activity Graph" />
-</div>
-
----
-
 
 ---
 
