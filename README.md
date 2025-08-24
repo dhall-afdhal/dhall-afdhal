@@ -401,14 +401,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
----
 
-<div align="center">
-  <h3>🎵 Spotify Playing</h3>
-  <img src="https://youtu.be/pvxCqFnCaL4?si=94DlWf3xFCAwjDJN" alt="Spotify Recently Played" />
-</div>
-
----
 
 ---
 
