@@ -108,7 +108,6 @@
 
 ---
 
-## 🎮 Play Snake Game
 
 
 ## 🛠️ Languages and Tools
