@@ -410,11 +410,6 @@
 
 ---
 
-<div align="center">
-  <h3>🐍 Snake eating my contribution graph</h3>
-  <img src="https://github.com/dhall-afdhal/dhall-afdhal/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div>
-
 ---
 
 <div align="center">
