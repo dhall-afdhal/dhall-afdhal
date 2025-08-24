@@ -31,15 +31,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.02) 100%); border-radius: 20px; padding: 25px; backdrop-filter: blur(15px); border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1); margin: 20px 0;">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhall-afdhal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.2));" />
-  </div>
-</div>
-
----
 
 ## 📊 GitHub Stats
 
