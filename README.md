@@ -141,15 +141,6 @@
   </table>
 </div>
 
----
-
-## 🏆 Achievements  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhall-afdhal&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 <div align="center">
   <h3>🎉 Thanks for visiting my profile!</h3>
