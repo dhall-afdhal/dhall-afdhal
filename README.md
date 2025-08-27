@@ -63,15 +63,7 @@
   <a href="https://dhallafdhal.blogspot.com/"><img src="https://skillicons.dev/icons?i=wordpress" height="50"/></a>
 </p>
 
----
 
-## 🐍 Snake Contributions  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhall-afdhal/dhall-afdhal/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://i.ibb.co/jDpY6xD/neon-line.gif" width="100%" alt="Neon Line"/>
