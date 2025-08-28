@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://instagram.com/dhall_afdhal"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
-  <a href="https://www.youtube.com/@dhallafdhal"><img src="https://skillicons.dev/icons?i=youtube" height="50"/></a>
+  <a href="https://www.youtube.com/@Dhallafdhal"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" alt="YouTube"/></a>
   <a href="mailto:dhallafdhal00@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
   <a href="https://dhallafdhal.blogspot.com/"><img src="https://skillicons.dev/icons?i=wordpress" height="50"/></a>
 </p>
