@@ -35,12 +35,8 @@
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhall-afdhal&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=dhall-afdhal&theme=radical&hide_border=true&border_radius=15" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhall-afdhal&theme=radical&layout=compact&hide_border=true&border_radius=15" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhall-afdhal&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="170" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhall-afdhal&theme=radical&layout=compact&hide_border=true&border_radius=15&cache_seconds=86400" height="170" style="display:inline-block;"/>
 </div>
 
 ---
@@ -97,14 +93,20 @@
       <div align="center">
         <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
       </div>
       <p align="center">
-        <strong>PHP Framework Mastery</strong><br/>
-        Expanding backend development skills with modern PHP frameworks
+        <strong>Full Stack & Mobile Dev Journey</strong><br/>
+        Exploring backend frameworks, frontend libraries, and mobile app development
       </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
