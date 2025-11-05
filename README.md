@@ -137,7 +137,7 @@
       </td>
       <td width="33%">
         <h4 align="center">📧 Contact</h4>
-        <p align="center">dhallafdhal00@gmail.com</p>
+        <p align="center">dhaproductionengineering@gmail.com</p>
       </td>
     </tr>
   </table>
