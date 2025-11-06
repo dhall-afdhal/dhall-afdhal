@@ -32,12 +32,12 @@
 
 ---
 
-## 📊 GitHub Analytics  
+<!-- ## 📊 GitHub Analytics  
 
-<div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhall-afdhal&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="170" style="display:inline-block;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhall-afdhal&theme=radical&layout=compact&hide_border=true&border_radius=15&cache_seconds=86400" height="170" style="display:inline-block;"/>
-</div>
+</div> -->
 
 ---
 
