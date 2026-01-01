@@ -15,6 +15,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 🔑 STEP WAJIB
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate pacman SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
