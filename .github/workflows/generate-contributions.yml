@@ -1,26 +1,43 @@
 name: Generate Pac‑Man Contribution Graph
 
+# Trigger: otomatis tiap hari + manual trigger
 on:
   schedule:
-    - cron: "0 0 * * *"   # Auto update tiap hari
-  workflow_dispatch:     # Bisa dijalankan manual juga
+    - cron: "0 0 * * *"   # Auto update setiap hari jam 00:00 UTC
+  workflow_dispatch:       # Bisa dijalankan manual juga
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # 1️⃣ Checkout repository
       - name: Checkout
         uses: actions/checkout@v3
 
+      # 2️⃣ Generate Pac‑Man SVG contribution graph
       - name: Generate SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: "dhall-afdhal"  # ganti dengan username GitHub Anda
+          # Optional: ganti warna tema jika mau
+          # bg_color: "141321"
+          # color: "a9fef7"
+          # line: "00E676"
+          # point: "ffffff"
+          # area: true
 
+      # 3️⃣ Push SVG ke repository jika berhasil dibuat
       - name: Push SVG
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add pacman-contribution-graph.svg
-          git commit -m "Update contribution graph" || echo "No changes"
-          git push
+
+          # cek apakah file SVG ada
+          if [ -f pacman-contribution-graph.svg ]; then
+            git add pacman-contribution-graph.svg
+            git commit -m "Update contribution graph" || echo "No changes"
+            git push
+          else
+            echo "SVG belum dibuat, tidak ada file untuk di-commit"
+          fi
