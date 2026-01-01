@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -15,8 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 🔑 STEP WAJIB
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Generate pacman SVG
@@ -25,7 +21,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
       - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
